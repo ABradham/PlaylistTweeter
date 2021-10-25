@@ -1,7 +1,6 @@
 # Author: Alphonso Bradham
 # Date: Sep. 23 2020
-# Purpose: A twitter bot {@SongsOfSolidarity} that posts a random communist song from
-# any given youtube playlist
+# Purpose: A twitter bot that posts random songs from any given youtube playlist
 
 
 #TODO: Deploy to heroku and make sure there is some consistent output (once every 5 mins?)
