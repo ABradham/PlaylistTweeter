@@ -86,8 +86,6 @@ def main():
 
 
 # Boilerplate / Start code. This project is intended to demonstrate the basic
-# functionality of the twitter API. This is not a reflection of the political
-# views held by the creators of this software or of the institutions with which
-# they are affiliated.
+# functionality of the twitter API.
 if __name__ == '__main__':
 	main()
